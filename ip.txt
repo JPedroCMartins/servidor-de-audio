@@ -1,0 +1,3 @@
+ffmpeg.exe -f dshow -i a
+udio="Microphone (High Definition Audio Device)" -ac 1 -ar 44100 -f s16le -af "volume=20dB" -m
+ethod POST -chunked_post 1 -bufsize 1024k IP
